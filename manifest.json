@@ -1,11 +1,11 @@
 {
-    "name": "yingzi_dsl_genorator",
-    "short_name": "yingzi_dsl_genorator",
+    "name": "yz_model_gen",
+    "short_name": "yz_model_gen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A tool to automatically convert dart code to yingzi DSL json",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
